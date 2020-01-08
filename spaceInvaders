@@ -5,7 +5,27 @@ L’interface est composée des éléments suivants:
         les vaisseaux ennemis;
         les missiles;
         le nombre de vies restantes du joueur.
-        Le score du joueur.
+       
 
 
-pouet pouet
+
+
+//Vaisseau du joueur:
+//Si le joueur appuye sur la touche Q alors le vvaisseau va à gauche
+// Si le joueur appuye sur la touche D alors le vaisseau va à droite
+//sinon le vaisseau ne bougge pas
+//Si le joueur va à l'extremite gauche alors il reste bloque a gauche, de meme pour la droite
+
+
+//missiles
+//Si le joueur appuye sur la touche espace alors le vaisseau lance des missiles sinon rien ne se passe
+//Si le missiles touche un ennemis alors il disparait
+//Si un missiles adverse touche le vaisseau alors il perd 1 vie
+
+
+//vie
+//Le joueur commence avec 3 vies
+//Si il est touché par un vaisseau ennemis alors il perd une vies (i=i-1)
+
+//Vaiseeaux des mechants
+//
