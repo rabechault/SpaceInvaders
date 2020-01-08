@@ -1,0 +1,11 @@
+L’interface est composée des éléments suivants:
+
+        le vaisseau du joueur;
+        une rangée de bunker;
+        les vaisseaux ennemis;
+        les missiles;
+        le nombre de vies restantes du joueur.
+        Le score du joueur.
+
+
+pouet
