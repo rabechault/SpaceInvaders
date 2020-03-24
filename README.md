@@ -1,2 +1,2 @@
 # SpaceInvaders
-Try to make a space invaders in C#
+Try to make a space invaders in C
